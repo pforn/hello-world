@@ -1,2 +1,3 @@
 # hello-world
 This is my first time on GitHub.
+Second year software engineering student, stuck in my basement room because of the bat flu...
